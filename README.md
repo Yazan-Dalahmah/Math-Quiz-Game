@@ -1,1 +1,1 @@
-There was an error committing your changes: A file with the same name already exists. Please choose a different name and try again.
+A C++ console math quiz game with customizable questions (1–10), selectable difficulty levels, and operation types. Provides colored feedback for answers, tracks results, and shows a final pass/fail summary.
